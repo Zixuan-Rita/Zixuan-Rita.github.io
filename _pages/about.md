@@ -1,4 +1,8 @@
 ---
+permalink: /about/
+title: "About"
+---
+---
 title: "Zixuan He"
 layout: splash
 permalink: /
